@@ -1,0 +1,51 @@
+vsim -gui work.bench_test
+# vsim -gui work.bench_test 
+# Start time: 18:36:33 on May 24,2024
+# Loading work.bench_test
+# Loading work.risc
+# Loading work.datapath
+# Loading work.Register
+# Loading work.pc_select
+# Loading work.mux2
+# Loading work.DataMemory
+# Loading work.regfile
+# Loading work.extension_unit
+# Loading work.mux3
+# Loading work.ALU
+# Loading work.mux4
+# Loading work.controller
+add wave -position insertpoint sim:/bench_test/CUT/dp/*
+restart
+run -all
+# ** Note: $stop    : C:/Users/afra/Desktop/03/test_bench.v(14)
+#    Time: 5005 ns  Iteration: 0  Instance: /bench_test
+# Break in Module bench_test at C:/Users/afra/Desktop/03/test_bench.v line 14
+restart
+run -all
+# ** Note: $stop    : C:/Users/afra/Desktop/03/test_bench.v(14)
+#    Time: 5005 ns  Iteration: 0  Instance: /bench_test
+# Break in Module bench_test at C:/Users/afra/Desktop/03/test_bench.v line 14
+# Compile of test_bench.v was successful.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.bench_test
+run -all
+# ** Note: $stop    : C:/Users/afra/Desktop/03/test_bench.v(14)
+#    Time: 500005 ns  Iteration: 0  Instance: /bench_test
+# Break in Module bench_test at C:/Users/afra/Desktop/03/test_bench.v line 14
+# Compile of datapath.v was successful.
+# Compile of test_bench.v was successful.
+# Compile of controller.v was successful.
+# Compile of ALU.v was successful.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.bench_test
+# Loading work.datapath
+# Loading work.ALU
+# Loading work.controller
+run -all
+# ** Note: $stop    : C:/Users/afra/Desktop/03/test_bench.v(9)
+#    Time: 500005 ns  Iteration: 0  Instance: /bench_test
+# Break in Module bench_test at C:/Users/afra/Desktop/03/test_bench.v line 9
+# End time: 19:03:06 on May 24,2024, Elapsed time: 0:26:33
+# Errors: 0, Warnings: 1

@@ -1,0 +1,120 @@
+C:/Users/afra/Desktop/03/register_file.v {1 {vlog -work work -stats=none C:/Users/afra/Desktop/03/register_file.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}} C:/Users/afra/Desktop/03/extension_unit.v {1 {vlog -work work -stats=none C:/Users/afra/Desktop/03/extension_unit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module extension_unit
+
+Top level modules:
+	extension_unit
+
+} {} {}} C:/Users/afra/Desktop/03/FlipFlop.v {1 {vlog -work work -stats=none C:/Users/afra/Desktop/03/FlipFlop.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module FlipFlop
+
+Top level modules:
+	FlipFlop
+
+} {} {}} C:/Users/afra/Desktop/03/inst_mem.v {1 {vlog -work work -stats=none C:/Users/afra/Desktop/03/inst_mem.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module InstructionMemory
+
+Top level modules:
+	InstructionMemory
+
+} {} {}} C:/Users/afra/Desktop/03/test_bench.v {1 {vlog -work work -stats=none C:/Users/afra/Desktop/03/test_bench.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module bench_test
+
+Top level modules:
+	bench_test
+
+} {} {}} C:/Users/afra/Desktop/03/pc_select.v {1 {vlog -work work -stats=none C:/Users/afra/Desktop/03/pc_select.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pc_select
+
+Top level modules:
+	pc_select
+
+} {} {}} C:/Users/afra/Desktop/03/DataMemory.v {1 {vlog -work work -stats=none C:/Users/afra/Desktop/03/DataMemory.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DataMemory
+
+Top level modules:
+	DataMemory
+
+} {} {}} C:/Users/afra/Desktop/03/mux_2.v {1 {vlog -work work -stats=none C:/Users/afra/Desktop/03/mux_2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}} C:/Users/afra/Desktop/03/controller.v {1 {vlog -work work -stats=none C:/Users/afra/Desktop/03/controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} C:/Users/afra/Desktop/03/mux_3.v {1 {vlog -work work -stats=none C:/Users/afra/Desktop/03/mux_3.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux3
+
+Top level modules:
+	mux3
+
+} {} {}} C:/Users/afra/Desktop/03/mux_4.v {1 {vlog -work work -stats=none C:/Users/afra/Desktop/03/mux_4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux4
+
+Top level modules:
+	mux4
+
+} {} {}} C:/Users/afra/Desktop/03/mux_5.v {1 {vlog -work work -stats=none C:/Users/afra/Desktop/03/mux_5.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux5
+
+Top level modules:
+	mux5
+
+} {} {}} C:/Users/afra/Desktop/03/datapath.v {1 {vlog -work work -stats=none C:/Users/afra/Desktop/03/datapath.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} C:/Users/afra/Desktop/03/risc.v {1 {vlog -work work -stats=none C:/Users/afra/Desktop/03/risc.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module risc
+
+Top level modules:
+	risc
+
+} {} {}} C:/Users/afra/Desktop/03/Register_32.v {1 {vlog -work work -stats=none C:/Users/afra/Desktop/03/Register_32.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Register
+
+Top level modules:
+	Register
+
+} {} {}} C:/Users/afra/Desktop/03/ALU_test.v {1 {vlog -work work -stats=none C:/Users/afra/Desktop/03/ALU_test.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU_test
+
+Top level modules:
+	ALU_test
+
+} {} {}} C:/Users/afra/Desktop/03/ALU.v {1 {vlog -work work -stats=none C:/Users/afra/Desktop/03/ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}}

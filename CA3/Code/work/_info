@@ -1,0 +1,431 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vALU
+!s110 1716564582
+!i10b 1
+!s100 d^c_L7n4CBzmA5J=]0fj62
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I[dIkB03h0;501V98a=P1k2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/afra/Desktop/03
+w1716564481
+8C:/Users/afra/Desktop/03/ALU.v
+FC:/Users/afra/Desktop/03/ALU.v
+!i122 122
+L0 2 30
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1716564582.000000
+!s107 C:/Users/afra/Desktop/03/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/afra/Desktop/03/ALU.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+n@a@l@u
+vALU_test
+!s110 1716494674
+!i10b 1
+!s100 f:2C;a9HS<]75iel9CGdb0
+R0
+IY^lcD53UIi9n`ViGEnTni2
+R1
+R2
+w1714728452
+8C:/Users/afra/Desktop/03/ALU_test.v
+FC:/Users/afra/Desktop/03/ALU_test.v
+!i122 77
+L0 2 19
+R3
+r1
+!s85 0
+31
+Z6 !s108 1716494674.000000
+!s107 C:/Users/afra/Desktop/03/ALU_test.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/afra/Desktop/03/ALU_test.v|
+!i113 1
+R4
+R5
+n@a@l@u_test
+vbench_test
+!s110 1716564573
+!i10b 1
+!s100 `2]N]^lWJc6kL5HQBd_RH1
+R0
+Ibc<abXREEAIOU@N]IcF5=0
+R1
+R2
+w1716564467
+8C:/Users/afra/Desktop/03/test_bench.v
+FC:/Users/afra/Desktop/03/test_bench.v
+!i122 120
+L0 2 10
+R3
+r1
+!s85 0
+31
+!s108 1716564572.000000
+!s107 C:/Users/afra/Desktop/03/test_bench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/afra/Desktop/03/test_bench.v|
+!i113 1
+R4
+R5
+vcontroller
+!s110 1716564576
+!i10b 1
+!s100 Do]:@_U<WTUOc`FKhLX:23
+R0
+I=gG`b72?:mSR<:T;4TgL`1
+R1
+R2
+w1716564522
+8C:/Users/afra/Desktop/03/controller.v
+FC:/Users/afra/Desktop/03/controller.v
+!i122 121
+L0 18 183
+R3
+r1
+!s85 0
+31
+!s108 1716564576.000000
+!s107 C:/Users/afra/Desktop/03/controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/afra/Desktop/03/controller.v|
+!i113 1
+R4
+R5
+vDataMemory
+!s110 1716535112
+!i10b 1
+!s100 YXV8R_DO5d]1RD]N>@4hF1
+R0
+IkkhR2_96fG]BT0j1[kn?Q2
+R1
+R2
+w1716500396
+8C:/Users/afra/Desktop/03/DataMemory.v
+FC:/Users/afra/Desktop/03/DataMemory.v
+!i122 105
+L0 1 18
+R3
+r1
+!s85 0
+31
+!s108 1716535112.000000
+!s107 C:/Users/afra/Desktop/03/DataMemory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/afra/Desktop/03/DataMemory.v|
+!i113 1
+R4
+R5
+n@data@memory
+vdatapath
+!s110 1716564569
+!i10b 1
+!s100 GNjVJP9hW>^k3^KT8MoG?3
+R0
+I[=X]26]gIk[OB;iUQ]nP^0
+R1
+R2
+w1716564540
+8C:/Users/afra/Desktop/03/datapath.v
+FC:/Users/afra/Desktop/03/datapath.v
+!i122 119
+L0 2 46
+R3
+r1
+!s85 0
+31
+!s108 1716564569.000000
+!s107 C:/Users/afra/Desktop/03/datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/afra/Desktop/03/datapath.v|
+!i113 1
+R4
+R5
+vextension_unit
+Z7 !s110 1716494675
+!i10b 1
+!s100 TWLa`^_EQc:ag@6M26inX1
+R0
+IS?=fo0=1_kYB9Nca:ZH@V3
+R1
+R2
+w1715208815
+8C:/Users/afra/Desktop/03/extension_unit.v
+FC:/Users/afra/Desktop/03/extension_unit.v
+!i122 80
+L0 2 18
+R3
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/afra/Desktop/03/extension_unit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/afra/Desktop/03/extension_unit.v|
+!i113 1
+R4
+R5
+vFlipFlop
+R7
+!i10b 1
+!s100 gSMTIGZcT7LL_>:mUI52b3
+R0
+ITF@V4Kb<cg>fg8n20[LNm1
+R1
+R2
+w1714728955
+8C:/Users/afra/Desktop/03/FlipFlop.v
+FC:/Users/afra/Desktop/03/FlipFlop.v
+!i122 81
+Z8 L0 2 14
+R3
+r1
+!s85 0
+31
+Z9 !s108 1716494675.000000
+!s107 C:/Users/afra/Desktop/03/FlipFlop.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/afra/Desktop/03/FlipFlop.v|
+!i113 1
+R4
+R5
+n@flip@flop
+vInstructionMemory
+R7
+!i10b 1
+!s100 ng3Jk@<6UG]h3N6Q=SAYH1
+R0
+I=chDVoVV1M[_2oZXN<[E>2
+R1
+R2
+w1715281665
+8C:/Users/afra/Desktop/03/inst_mem.v
+FC:/Users/afra/Desktop/03/inst_mem.v
+!i122 82
+L0 1 13
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/afra/Desktop/03/inst_mem.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/afra/Desktop/03/inst_mem.v|
+!i113 1
+R4
+R5
+n@instruction@memory
+vmux2
+R7
+!i10b 1
+!s100 73DAD15oj8mm5D2>HE?`[0
+R0
+Im[i`k`1aV1gWYIl<=Nb<[0
+R1
+R2
+w1715208982
+8C:/Users/afra/Desktop/03/mux_2.v
+FC:/Users/afra/Desktop/03/mux_2.v
+!i122 83
+L0 2 13
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/afra/Desktop/03/mux_2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/afra/Desktop/03/mux_2.v|
+!i113 1
+R4
+R5
+vmux3
+R7
+!i10b 1
+!s100 eX6>K_TZ112Zf<oFa4KAm3
+R0
+IV6l_HYUdVZ>6>05Ui8XTe3
+R1
+R2
+w1715208980
+8C:/Users/afra/Desktop/03/mux_3.v
+FC:/Users/afra/Desktop/03/mux_3.v
+!i122 84
+R8
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/afra/Desktop/03/mux_3.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/afra/Desktop/03/mux_3.v|
+!i113 1
+R4
+R5
+vmux4
+R7
+!i10b 1
+!s100 fOP<Q>nRSl2bTh^dMlT]_1
+R0
+IXg[>4`DdNINWT2c>9kAMP0
+R1
+R2
+w1715208977
+8C:/Users/afra/Desktop/03/mux_4.v
+FC:/Users/afra/Desktop/03/mux_4.v
+!i122 85
+Z10 L0 2 15
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/afra/Desktop/03/mux_4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/afra/Desktop/03/mux_4.v|
+!i113 1
+R4
+R5
+vmux5
+R7
+!i10b 1
+!s100 @TmBmj0UcSocMf>5K=]zl0
+R0
+IKM;izNLV`5>0^5ESjJfO@1
+R1
+R2
+w1715208974
+8C:/Users/afra/Desktop/03/mux_5.v
+FC:/Users/afra/Desktop/03/mux_5.v
+!i122 86
+L0 2 16
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/afra/Desktop/03/mux_5.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/afra/Desktop/03/mux_5.v|
+!i113 1
+R4
+R5
+vpc_select
+!s110 1716537388
+!i10b 1
+!s100 62d=9cMW=GJE_PV^1`i=J1
+R0
+IagM`TCM=01n5Q0::eVlX13
+R1
+R2
+w1716536666
+8C:/Users/afra/Desktop/03/pc_select.v
+FC:/Users/afra/Desktop/03/pc_select.v
+!i122 117
+R10
+R3
+r1
+!s85 0
+31
+!s108 1716537387.000000
+!s107 C:/Users/afra/Desktop/03/pc_select.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/afra/Desktop/03/pc_select.v|
+!i113 1
+R4
+R5
+vregfile
+Z11 !s110 1716494676
+!i10b 1
+!s100 a`IhaEWz9a1k6J>eU5JEX2
+R0
+I?o3Xo:S<<Ad;UNNDB0ebD2
+R1
+R2
+w1716216638
+8C:/Users/afra/Desktop/03/register_file.v
+FC:/Users/afra/Desktop/03/register_file.v
+!i122 88
+L0 2 23
+R3
+r1
+!s85 0
+31
+Z12 !s108 1716494676.000000
+!s107 C:/Users/afra/Desktop/03/register_file.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/afra/Desktop/03/register_file.v|
+!i113 1
+R4
+R5
+vRegister
+R11
+!i10b 1
+!s100 I^_CC:GBJl3L:V:Z8bejM0
+R0
+I<VW9aDXRFRCGM^9GJaC?k2
+R1
+R2
+w1716398209
+8C:/Users/afra/Desktop/03/Register_32.v
+FC:/Users/afra/Desktop/03/Register_32.v
+!i122 87
+L0 1 14
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/afra/Desktop/03/Register_32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/afra/Desktop/03/Register_32.v|
+!i113 1
+R4
+R5
+n@register
+vrisc
+!s110 1716537299
+!i10b 1
+!s100 ]`i[SaA;a6S6J=2_K>MCf2
+R0
+IOEdagVjbHH;4`<`=dQiBZ0
+R1
+R2
+w1716537021
+Z13 8C:/Users/afra/Desktop/03/risc.v
+Z14 FC:/Users/afra/Desktop/03/risc.v
+!i122 114
+Z15 L0 2 17
+R3
+r1
+!s85 0
+31
+!s108 1716537298.000000
+Z16 !s107 C:/Users/afra/Desktop/03/risc.v|
+Z17 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/afra/Desktop/03/risc.v|
+!i113 1
+R4
+R5
+vrisc_v
+R11
+!i10b 1
+!s100 AzEUo1m_HElRF;PDLQ<ni3
+R0
+I0A[K@f;8J]gYPz6MD6Iec0
+R1
+R2
+w1716460648
+R13
+R14
+!i122 89
+R15
+R3
+r1
+!s85 0
+31
+R12
+R16
+R17
+!i113 1
+R4
+R5
