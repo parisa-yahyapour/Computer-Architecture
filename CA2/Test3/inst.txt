@@ -1,0 +1,10 @@
+addi X2,ZERO,10
+addi X3,ZERO,10
+beq X3,X2,L1
+addi X2,ZERO,0
+addi X3,ZERO,0 :L1
+bne X3,X2,L2
+addi X4,ZERO,0
+sw X3,0(X2) :L2
+lui X5,130
+jalr X7,-4(ZERO)

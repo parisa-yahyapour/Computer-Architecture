@@ -1,0 +1,7 @@
+addi X2,ZERO,10
+addi X3,ZERO,20
+sub X4,X2,X3
+and X5,X4,X3
+or X6,X4,X3
+ori X7,X2,51
+xori X2,X3,1

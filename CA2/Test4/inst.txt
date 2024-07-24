@@ -1,0 +1,5 @@
+addi X2,ZERO,12
+addi X3,ZERO,20
+blt X2,X3,L1
+addi X3,ZERO,12
+addi X2,ZERO,20 :L1
